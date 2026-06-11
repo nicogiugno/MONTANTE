@@ -1380,3 +1380,6 @@ body.is-locked { overflow: hidden; }
   white-space: nowrap;
   border: 0;
 }
+
+/* ---------- Logotipo V3 ---------- */
+.brand__logo { display: block; height: 18px; width: auto; }
